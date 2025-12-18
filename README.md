@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Jack 👋
 
-<!--
-**jczaplewski/jczaplewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Business Analytics & Information Systems student
+📊 Interested in data analytics, product management, and applied analytics
+💻 Experience with Python, SQL, PySpark, Databricks, and web analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+I’m a college student with hands-on experience in analytics projects involving data wrangling, visualization, and modeling. I enjoy turning messy data into clear insights and building projects that solve real-world problems.
+
+
+## Skills
+- Python (pandas, matplotlib)
+- SQL & relational databases
+- PySpark & Databricks
+- Data visualization & analytics
+- Web analytics (Google Analytics)
+
+
+## What You’ll Find Here
+This GitHub showcases academic and personal projects focused on analytics and applied problem-solving.
